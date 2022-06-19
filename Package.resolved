@@ -11,6 +11,15 @@
         }
       },
       {
+        "package": "CollectionConcurrencyKit",
+        "repositoryURL": "https://github.com/johnsundell/collectionConcurrencyKit.git",
+        "state": {
+          "branch": null,
+          "revision": "b4f23e24b5a1bff301efc5e70871083ca029ff95",
+          "version": "0.2.0"
+        }
+      },
+      {
         "package": "Files",
         "repositoryURL": "https://github.com/johnsundell/files.git",
         "state": {
@@ -33,8 +42,8 @@
         "repositoryURL": "https://github.com/johnsundell/plot.git",
         "state": {
           "branch": null,
-          "revision": "6dcfc1f246eabf6ea470202244115f73b75c72c4",
-          "version": "0.6.0"
+          "revision": "b358860fe565eb53e98b1f5807eb5939c8124547",
+          "version": "0.11.0"
         }
       },
       {
@@ -42,8 +51,8 @@
         "repositoryURL": "https://github.com/johnsundell/publish.git",
         "state": {
           "branch": null,
-          "revision": "9458bacb992f1fde35648fd4bb379fb7335d571c",
-          "version": "0.5.0"
+          "revision": "1c8ad00d39c985cb5d497153241a2f1b654e0d40",
+          "version": "0.9.0"
         }
       },
       {
